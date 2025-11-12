@@ -1,6 +1,6 @@
 # Access via x402 Payments (in Solana network)
 
-Pay‑per‑query access to Solana transaction & token activity using the x402 protocol.
+Pay‑per‑query access to Solana transaction & token activity using the x402 protocol: swaps, mints, migrations and full historical trades.
 
 Payment is recieved in `USDC` (Solana chain)
 
